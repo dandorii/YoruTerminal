@@ -35,3 +35,9 @@ dist/
 .vscode/
 .DS_Store
 Thumbs.db
+
+# Local environment and tooling
+.python-version
+.pyright/
+.mypy_cache/
+.ruff_cache/
